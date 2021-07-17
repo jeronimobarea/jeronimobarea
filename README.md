@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Linkedin: jeronimobarea](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeronimobarealucas/)](https://www.linkedin.com/in/jeronimobarealucas/)
+[![Linkedin: jeronimobarea](https://img.shields.io/badge/-jero-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeronimobarealucas/)](https://www.linkedin.com/in/jeronimobarealucas/)
 
 - 🔭 I’m currently working on [Green Man Gaming](https://www.greenmangaming.com/)
 - 🌱 I’m currently looking to learn about Blockchain and Solidity
