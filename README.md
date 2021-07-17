@@ -7,7 +7,27 @@ Hi!! My name is Jeronimo but you can call me Jero, I'm a Software Engineer from 
 - 🔭 I’m currently working on [Green Man Gaming](https://www.greenmangaming.com/)
 - 🌱 I’m currently looking to learn about Blockchain and Solidity
 - 💬 Ask me about anythin you want!
-- ⚡ Fun fact: I do lockpicking 🔒
+- ⚡ Fun fact: I do lockpicking 🔒 (As a hobby! 😜)
+
+```go
+Jero := SoftwareEngineer{
+  Code: []string{
+    "Go", "Python", "Java", "JavaScript",
+  },
+  AskMeAbout: []string{
+    "backend dev", "tech", "app dev",
+  },
+  Technologies: map[string][]string{
+    "BackEnd":   {"GO", "Node.js", "Python/Django"},
+    "MobileApp": {"Android"},
+    "DevOps":    {"AWS", "Docker🐳"},
+    "Databases": {"Mongo", "MySql"},
+    "Misc":      {"Firebase"},
+  },
+  Architecture: []string{"Serverless Architecture", "Microservices"},
+  CurrentFocus: "Go and Microservices",
+}
+```
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeronimobarea&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeronimobarea&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
