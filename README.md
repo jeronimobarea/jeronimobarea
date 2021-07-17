@@ -1,13 +1,12 @@
 ### Hi there 👋
 
+Hi!! My name is Jeronimo but you can call me Jero, I'm a Software Engineer from Spain, currently working with GO and Microservices!
+
 [![Linkedin: jeronimobarea](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeronimobarealucas/)](https://www.linkedin.com/in/jeronimobarealucas/)
 
 - 🔭 I’m currently working on [Green Man Gaming](https://www.greenmangaming.com/)
 - 🌱 I’m currently looking to learn about Blockchain and Solidity
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about anythin you want!
-- 📫 How to reach me: ...
 - ⚡ Fun fact: I do lockpicking 🔒
 
 ## 🏆 GitHub Trophies
