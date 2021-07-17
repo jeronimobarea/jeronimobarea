@@ -30,4 +30,4 @@ Jero := SoftwareEngineer{
 ```
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=jeronimobarea&theme=nord&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=jeronimobarea&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
