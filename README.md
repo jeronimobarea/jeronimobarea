@@ -6,7 +6,7 @@ Hi!! My name is Jeronimo but you can call me Jero, I'm a Software Engineer from 
 
 - 🔭 I’m currently working on [Green Man Gaming](https://www.greenmangaming.com/)
 - 🌱 I’m currently looking to learn about Blockchain and Solidity
-- 💬 Ask me about anythin you want!
+- 💬 Ask me about anything you want!
 - ⚡ Fun fact: I do lockpicking 🔒 (As a hobby! 😜)
 
 ```go
@@ -31,3 +31,4 @@ Jero := SoftwareEngineer{
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeronimobarea&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![deno-websocket](https://github-readme-stats.vercel.app/api/pin/?username=jeronimobarea&repo=deno-websocket&theme=monokai)](https://github.com/ryo-ma/deno-websokcet)
