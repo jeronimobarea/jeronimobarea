@@ -31,5 +31,3 @@ Jero := SoftwareEngineer{
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=jeronimobarea&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
-[![deno-websocket](https://github-readme-stats.vercel.app/api/pin/?username=jeronimobarea&repo=jeronimobarea&theme=monokai)](https://github.com/jeronimobarea/jeronimobarea)
-[![lazyhub](https://github-readme-stats.vercel.app/api/pin/?username=jeronimobarea&repo=jeronimobarea&theme=monokai)](https://github.com/jeronimobarea/jeronimobarea)
