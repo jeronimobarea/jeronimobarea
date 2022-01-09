@@ -6,6 +6,6 @@ I'm a Software Engineer from Spain!
 
 * 🔭 I’m currently working at [Green Man Gaming](https://www.greenmangaming.com/)
 * ⚙️ Some languages: `.go`, `.scala`, `.py`, `.js`
-* 🌱 Looking to learn about Blockchain and Solidity
+* 🌱 Looking to learn about Blockchain, Web3 and Rust
 * 💬 Talk to me about anything you want!
 * ⚡ Fun fact: I do lockpicking 🔒 (As a hobby! 😜)
